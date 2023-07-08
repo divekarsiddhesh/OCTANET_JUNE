@@ -161,4 +161,10 @@ body{
 
 #icons{
     color: whitesmoke;
+    cursor: pointer;
+}
+
+.navbar li{
+    cursor: pointer;
+    
 }
