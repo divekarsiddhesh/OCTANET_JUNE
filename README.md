@@ -12,3 +12,9 @@ Task 2-
 
 https://github.com/divekarsiddhesh/OCTANET_JUNE/assets/131976693/9d4c14ae-e125-4017-8afb-9174620c29a7
 
+Task 3 -
+![spotify](https://github.com/divekarsiddhesh/OCTANET_JUNE/assets/131976693/e38a7353-42f5-4816-9a8f-d03865d02a76)
+
+
+
+
